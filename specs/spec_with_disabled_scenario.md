@@ -16,7 +16,7 @@ This is a generic Scenario header that will be used throughout.
   * Do this
   * Do that
   
-  ## THREE: Scenario / Case 
+## THREE: Scenario / Case 
 This is a generic Scenario header that will be used throughout.
 
   * Do this
